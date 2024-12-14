@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
-global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/EYBS42HhcWDE0pAldpEVf8'
+global.sdc = "-"
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.pdana = '089501954399'
+global.povo = '085603256172'
+global.pgopay = '085603256172'
+global.ppulsa = '6289501954399'
+global.ppulsa2 = '6285603256172'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '6289501954399'
+global.nomorown = '6285603256172'
+global.namebot = 'ＢｅｔａＢｏｔｚｚ || ＭＤ'
+global.nameown = 'sᴇᴘᴘ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['6285603256172', 'sᴇᴘᴘ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
+global.wm = '                「 ＢｅｔａＢｏｔｚｚ シ」' //Main Watermark
+global.wm2 = 'ʙᴇᴛᴀʙᴏᴛᴢᴢ'
+global.wm3 = '❖ ʙᴇᴛᴀʙᴏᴛᴢᴢ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.titlebot = '✨┊ BETABOTZZ '
 global.author = global.wm
 
 
@@ -171,7 +171,7 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XH1TORI'
+global.stickpack = 'BETABOTZZ'
 global.stickauth = `シ`
 
 global.multiplier = 38 // The higher, The harder levelup
